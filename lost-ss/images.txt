@@ -1,0 +1,5 @@
+cropped_images/s1.png
+cropped_images/s2.png
+cropped_images/s3.png
+cropped_images/s4.png
+cropped_images/s5.png
